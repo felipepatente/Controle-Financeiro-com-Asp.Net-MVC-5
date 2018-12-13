@@ -50,3 +50,10 @@ c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\obj\Debu
 c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.pdb
 c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
 c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.Web.Common.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.Web.Mvc.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\WebActivatorEx.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.Web.Common.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Financas\Financas\bin\Ninject.Web.Mvc.xml
